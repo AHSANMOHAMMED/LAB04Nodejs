@@ -1,4 +1,4 @@
-git{
+{
   "name": "lab04nodejs",
   "version": "1.0.0",
   "description": "AF Lab 04",
@@ -8,7 +8,7 @@ git{
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/AHSANMOHAMMED/LAB04Nodejs.git)"
+    "url": "https://github.com/AHSANMOHAMMED/LAB04Nodejs.git"
   },
   "author": "AHSAN",
   "license": "ISC"
