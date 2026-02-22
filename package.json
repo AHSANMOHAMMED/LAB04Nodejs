@@ -1,0 +1,15 @@
+git{
+  "name": "lab04nodejs",
+  "version": "1.0.0",
+  "description": "AF Lab 04",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing version control"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AHSANMOHAMMED/LAB04Nodejs.git)"
+  },
+  "author": "AHSAN",
+  "license": "ISC"
+}
