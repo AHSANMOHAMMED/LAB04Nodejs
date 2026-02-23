@@ -1,2 +1,3 @@
-console.log('Hello from LAB04Nodejs!');
-console.log('Node.js application is running successfully.');
+const myModule = require('./my-module');
+
+console.log(myModule.myFunction());
